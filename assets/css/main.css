@@ -2695,7 +2695,7 @@ button:disabled,
 }
 
 .features li {
-	padding: 4em 4em 2em 6em;
+	padding: 4em 4em 4em 4em;
 	display: block;
 	position: relative;
 	text-align: left;
@@ -2704,10 +2704,12 @@ button:disabled,
 
 .features li:nth-child(1) {
 	background-color: rgba(0, 0, 0, 0.035);
+	text-align: center;
 }
 
 .features li:nth-child(2) {
 	background-color: rgba(0, 0, 0, 0.07);
+	text-align: center;
 }
 
 .features li:nth-child(3) {
@@ -2958,7 +2960,7 @@ button:disabled,
 
 .wrapper.style1 {
 	background-color: #c2a1c3;
-	color: #c8ece9;
+	color: #ffffff;
 }
 
 .wrapper.style1 strong,
